@@ -49,6 +49,17 @@ Am separat proiectul in doua etape: <br>
   </li>
   
  ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/ce12001b-dcd5-481a-8007-7cff83d93078)
+
+ <li></li>
+
+ ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/66527519-03b2-4773-8ea4-1f5d66f7f27d)
+
+<li></li>
+
+![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/73fcdbfe-2580-47db-8308-697038741197)
+
+<li></li>
+
 </ol>
 
 
