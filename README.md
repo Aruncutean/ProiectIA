@@ -83,8 +83,8 @@ Am separat proiectul in doua etape: <br>
   <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/0bcbbb74-0087-4e3e-b3be-21d039f8404b" width="400" />
   <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/e2caaa86-cb9a-4cd3-ad43-a808c8664e97" width="400" /> 
 </p>
- ![01cfc4c8-5e59-4837-a42e-271e2c130068](https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b)
- 
+ <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b" width="400" /> 
+
    <li>YOLOv8l </li>
 </ol>
 
