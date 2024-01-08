@@ -34,6 +34,11 @@ Am separat proiectul in doua etape: <br>
  
 ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/67151fa2-8aee-402c-9b71-002c8ef02cfb)
 
+<li>Dupa am exportat datele pentru a le utiliza in colab </li>
+
+![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/6991ec3c-847e-4aa3-b6b7-87b776cb37b8)
+
+
 </ol>
 
 
