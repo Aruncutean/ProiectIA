@@ -45,20 +45,31 @@ Am separat proiectul in doua etape: <br>
 <h2>1.Antrenarea modelului</h2>
 <ol>
   <li>
-  Pentru antrenarea modelului am utilizat colab de la google 
+  Pentru antrenarea modelului am utilizat colab de la google, si am urmat pasi din tutorialul acesta
   </li>
   
  ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/ce12001b-dcd5-481a-8007-7cff83d93078)
 
- <li></li>
+ <li>Before you start </li>
 
  ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/66527519-03b2-4773-8ea4-1f5d66f7f27d)
 
-<li></li>
+<li>Install YOLOv8 </li>
 
 ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/73fcdbfe-2580-47db-8308-697038741197)
 
-<li></li>
+<li>Exporting dataset</li>
+
+![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/e4154fd0-4ee9-40ac-a386-965311e83848)
+
+<li>Ce nu apare in tutorial am editat path-urile catre fisierele exportate din roboflow</li>
+
+![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/15d4bdcb-ff88-4258-9d51-c18282794e29)
+
+<li>Custom Training</li>
+
+![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/b0d891dd-3478-4e7f-9342-574189dcc5d3)
+
 
 </ol>
 
