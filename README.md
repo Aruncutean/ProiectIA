@@ -16,7 +16,8 @@ Am separat proiectul in doua etape: <br>
    <li> in antrenarea modelului </li>
 </ol>
 <h2>1.Identificarea setului de date</h2>   
-Pentru identificarea setului de date am utilizat Roboflow, am selectat niste imaginii de pe google 
+Pentru identificarea setului de date am utilizat Roboflow
+Am selectat niste imaginii de pe google 
 
 ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/ce3fef68-15ef-45f5-8b28-e600a353dc38)
 
