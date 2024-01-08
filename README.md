@@ -67,9 +67,7 @@ Am separat proiectul in doua etape: <br>
 ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/15d4bdcb-ff88-4258-9d51-c18282794e29)
 
 <li>Custom Training</li>
-
-![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/b0d891dd-3478-4e7f-9342-574189dcc5d3)
-
+ <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/b0d891dd-3478-4e7f-9342-574189dcc5d3" width="600" />
 </ol>
 
 <h3>Rezultate obitinute</h3>
@@ -77,8 +75,18 @@ Am separat proiectul in doua etape: <br>
 <h5>Am antrenat reteaua pentru mai multe tipuri de modele dintre care: </h5>
 <ol>
    <li>YOLOv8n </li>
+  <p float="left">
+  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/0bcbbb74-0087-4e3e-b3be-21d039f8404b" width="400" />
+  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/e2caaa86-cb9a-4cd3-ad43-a808c8664e97" width="400" /> 
+</p>
+ <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b" width="600" /> 
    <li>YOLOv8s </li>
-   <li>YOLOv8m </li>
+  <p float="left">
+  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/0bcbbb74-0087-4e3e-b3be-21d039f8404b" width="400" />
+  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/e2caaa86-cb9a-4cd3-ad43-a808c8664e97" width="400" /> 
+</p>
+ <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b" width="600" /> 
+   <li>YOLOv8m epochs=58 </li>
  <p float="left">
   <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/0bcbbb74-0087-4e3e-b3be-21d039f8404b" width="400" />
   <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/e2caaa86-cb9a-4cd3-ad43-a808c8664e97" width="400" /> 
@@ -86,6 +94,11 @@ Am separat proiectul in doua etape: <br>
  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b" width="600" /> 
 
    <li>YOLOv8l </li>
+    <p float="left">
+  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/0bcbbb74-0087-4e3e-b3be-21d039f8404b" width="400" />
+  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/e2caaa86-cb9a-4cd3-ad43-a808c8664e97" width="400" /> 
+</p>
+ <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b" width="600" /> 
 </ol>
 
 
