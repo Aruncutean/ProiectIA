@@ -43,3 +43,15 @@ Am separat proiectul in doua etape: <br>
 
 
 <h2>1.Antrenarea modelului</h2>
+<ol>
+  <li>
+  Pentru antrenarea modelului am utilizat colab de la google 
+  </li>
+  
+ ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/ce12001b-dcd5-481a-8007-7cff83d93078)
+</ol>
+
+
+
+
+
