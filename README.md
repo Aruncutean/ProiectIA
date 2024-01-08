@@ -93,12 +93,14 @@ Am separat proiectul in doua etape: <br>
 </p>
  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b" width="600" /> 
 
-   <li>YOLOv8l epochs=</li>
+   <li>YOLOv8l epochs=52 </li>
     <p float="left">
   <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/0bcbbb74-0087-4e3e-b3be-21d039f8404b" width="400" />
-  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/e2caaa86-cb9a-4cd3-ad43-a808c8664e97" width="400" /> 
+  <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/126d22f1-69b7-4bba-9469-2d116017e62d" width="400" /> 
+
 </p>
- <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/c5f5d3cc-d682-49a9-87bc-3ec4356a619b" width="600" /> 
+ <img src="https://github.com/Aruncutean/ProiectIA/assets/52048476/01871de1-f7c6-4c58-9141-c0910aa68032" width="600" /> 
+
 </ol>
 
 
