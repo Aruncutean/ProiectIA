@@ -70,8 +70,9 @@ Am separat proiectul in doua etape: <br>
 
 ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/b0d891dd-3478-4e7f-9342-574189dcc5d3)
 
-
 </ol>
+
+<h3>Rezultate obitinute</h3>
 
 
 
