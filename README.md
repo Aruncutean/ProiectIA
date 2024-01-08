@@ -18,8 +18,23 @@ Am separat proiectul in doua etape: <br>
 <h2>1.Identificarea setului de date</h2>   
 <ol>
  <li>Pentru identificarea setului de date am utilizat Roboflow. Roboflow este o platformă specializată în computer vision care facilitează procesul de creare, distribuție și utilizare a seturilor de date pentru antrenarea modelelor de învățare automată. Principalul său scop este de a simplifica și de a optimiza procesul de dezvoltare pentru proiecte de viziune artificială.</li>
-<li>Am selectat niste imaginii de pe google </li>
+<li>Am selectat imaginii de pe google </li>
+
+ ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/ce3fef68-15ef-45f5-8b28-e600a353dc38)
+
+ <li>Am creat un nou proiect in roboflow  </li>
+
+ ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/f148ddf0-d372-4106-8fb4-28a987fad4d3)
+
+ <li>Am updatat imaginile selectate in roboflow  </li>
+
+ ![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/a5948ba6-904a-4fa8-94ea-8ea5beae5931)
+
+ <li>Dupa am folosit functia de ANNOTATE pentru a delimita obiectele de interes  </li>
+ 
+![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/67151fa2-8aee-402c-9b71-002c8ef02cfb)
+
 </ol>
-![image](https://github.com/Aruncutean/ProiectIA/assets/52048476/ce3fef68-15ef-45f5-8b28-e600a353dc38)
+
 
 <h2>1.Antrenarea modelului</h2>
