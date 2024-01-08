@@ -74,7 +74,13 @@ Am separat proiectul in doua etape: <br>
 
 <h3>Rezultate obitinute</h3>
 
-
+<h5>Am antrenat reteaua pentru mai multe tipuri de modele dintre care: </h5>
+<ol>
+   <li>YOLOv8n </li>
+   <li>YOLOv8s </li>
+   <li>YOLOv8m </li>
+   <li>YOLOv8l </li>
+</ol>
 
 
 
